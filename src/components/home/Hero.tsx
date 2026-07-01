@@ -67,7 +67,7 @@ export default function Hero() {
             <ul className="flex flex-col gap-3 mb-10" role="list">
               {[
                 "بیش از ۱۵ سال تجربه بالینی",
-                "دکترای روان‌شناسی عمومی",
+                "دکتری روان‌شناسی عمومی",
                 "مشاوره حضوری و آنلاین",
               ].map((point) => (
                 <li key={point} className="flex items-center gap-3">

@@ -30,7 +30,7 @@ export default function AboutPage() {
 
   const education = [
     {
-      degree: "دکترای روان‌شناسی عمومی",
+      degree: "دکتری روان‌شناسی عمومی",
       university: "دانشگاه شهرکرد",
       icon: GraduationCap,
     },

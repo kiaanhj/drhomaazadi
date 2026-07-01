@@ -6,7 +6,7 @@ export default function AboutSection() {
   const credentials = [
     {
       icon: GraduationCap,
-      title: "دکترای روان‌شناسی عمومی",
+      title: "دکتری روان‌شناسی عمومی",
       detail: "دانشگاه شهرکرد",
     },
     {
