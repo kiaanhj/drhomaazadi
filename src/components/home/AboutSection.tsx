@@ -7,12 +7,12 @@ export default function AboutSection() {
     {
       icon: GraduationCap,
       title: "دکتری روان‌شناسی عمومی",
-      detail: "دانشگاه شهرکرد",
+      detail: "دانشگاه آزاد اسلامی شهرکرد",
     },
     {
       icon: Award,
       title: "مجوز رسمی نظام روان‌شناسی",
-      detail: "شماره: ۱۷۱۱۸۴۸",
+      detail: "شماره پروانه اشتغال: ۱۷۱۱۸۴۸ | شماره نظام روانشناسی: ۱۴۱۲۸",
     },
     {
       icon: Building2,

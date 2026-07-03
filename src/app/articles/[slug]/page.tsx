@@ -214,7 +214,7 @@ export default function ArticlePage({ params }: Props) {
                 دکتر هما آزادی
               </p>
               <p className="text-brand-text-muted text-xs mt-0.5">
-                PhD روان‌شناسی | مشاور خانواده و زوج | شماره نظام ۱۷۱۱۸۴۸
+                PhD روان‌شناسی | پروانه اشتغال: ۱۷۱۱۸۴۸ | نظام روانشناسی: ۱۴۱۲۸
               </p>
             </div>
           </div>

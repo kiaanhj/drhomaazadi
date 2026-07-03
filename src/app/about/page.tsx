@@ -11,13 +11,12 @@ import {
   Sparkles,
 } from "lucide-react";
 import CTASection from "@/components/home/CTASection";
-import { LICENSE_NUMBER, VALUES } from "@/lib/constants";
+import { LICENSE_NUMBER, NEZAM_NUMBER, VALUES } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title: "درباره دکتر هما آزادی | روان‌شناس اصفهان",
   description:
-    "آشنایی با دکتر هما آزادی، روان‌شناس دکترا با بیش از ۱۵ سال تجربه در مشاوره خانواده و زوج‌درمانی در اصفهان. شماره نظام: " +
-    LICENSE_NUMBER,
+    `آشنایی با دکتر هما آزادی، روان‌شناس دکترا با بیش از ۱۵ سال تجربه در مشاوره خانواده و زوج‌درمانی در اصفهان. شماره پروانه اشتغال: ${LICENSE_NUMBER} | شماره نظام روانشناسی: ${NEZAM_NUMBER}`,
 };
 
 export default function AboutPage() {
@@ -31,12 +30,12 @@ export default function AboutPage() {
   const education = [
     {
       degree: "دکتری روان‌شناسی عمومی",
-      university: "دانشگاه شهرکرد",
+      university: "دانشگاه آزاد اسلامی شهرکرد",
       icon: GraduationCap,
     },
     {
       degree: "مجوز رسمی سازمان نظام روان‌شناسی",
-      university: `شماره پروانه: ${LICENSE_NUMBER}`,
+      university: `شماره پروانه اشتغال: ${LICENSE_NUMBER} | شماره نظام روانشناسی: ${NEZAM_NUMBER}`,
       icon: Award,
     },
     {

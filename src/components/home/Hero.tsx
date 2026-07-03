@@ -150,7 +150,7 @@ export default function Hero() {
                     PhD روان‌شناسی • مدرس دانشگاه نجف‌آباد
                   </p>
                   <p className="text-xs text-brand-text-muted/60 mt-0.5">
-                    رویکرد PTC | نظام: ۱۷۱۱۸۴۸
+                    پروانه: ۱۷۱۱۸۴۸ | نظام: ۱۴۱۲۸
                   </p>
                 </div>
               </div>

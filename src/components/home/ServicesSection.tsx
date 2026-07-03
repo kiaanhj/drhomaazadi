@@ -48,7 +48,7 @@ export default function ServicesSection() {
             id="services-heading"
             className="text-3xl md:text-4xl font-bold text-brand-accent mb-4"
           >
-            چه کمکی می‌توانم به شما کنم؟
+            چه کمکی می‌توانم به شما بکنم؟
           </h2>
           <p className="text-brand-text-muted max-w-xl mx-auto leading-relaxed">
             هر مشکل راه‌حلی دارد. در اینجا می‌توانید مشاوره تخصصی در حوزه‌های

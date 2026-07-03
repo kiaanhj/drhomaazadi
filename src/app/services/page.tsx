@@ -29,7 +29,7 @@ export default function ServicesPage() {
           </nav>
           <p className="text-sm font-semibold text-brand-primary tracking-widest uppercase mb-3">خدمات تخصصی</p>
           <h1 id="services-page-heading" className="text-4xl md:text-5xl font-bold text-brand-accent mb-4">
-            چه کمکی می‌توانم به شما کنم؟
+            چه کمکی می‌توانم به شما بکنم؟
           </h1>
           <p className="text-brand-text-muted max-w-xl leading-relaxed">
             هر مشکل راه‌حلی دارد. با رویکرد علمی و همدلانه، در حوزه‌های مختلف روان‌شناسی کنارتان هستم.

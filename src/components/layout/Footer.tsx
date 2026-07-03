@@ -6,6 +6,7 @@ import {
   EMAIL,
   ADDRESS,
   LICENSE_NUMBER,
+  NEZAM_NUMBER,
   SERVICES,
 } from "@/lib/constants";
 
@@ -37,7 +38,7 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-2 text-sm text-white/50">
               <Shield size={14} />
-              <span>شماره نظام روان‌شناسی: {LICENSE_NUMBER}</span>
+              <span>شماره پروانه اشتغال: {LICENSE_NUMBER} | شماره نظام روانشناسی: {NEZAM_NUMBER}</span>
             </div>
           </div>
 
