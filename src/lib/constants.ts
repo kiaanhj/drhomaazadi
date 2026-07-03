@@ -2,7 +2,7 @@ export const PHONE_NUMBER = "09133197452";
 export const WHATSAPP_NUMBER = "989133197452";
 export const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}?text=%D8%B3%D9%84%D8%A7%D9%85%D8%8C%20%D9%85%DB%8C%E2%80%8C%D8%AE%D9%88%D8%A7%D9%87%D9%85%20%D9%88%D9%82%D8%AA%20%D9%85%D8%B4%D8%A7%D9%88%D8%B1%D9%87%20%D8%B1%D8%B2%D8%B1%D9%88%20%DA%A9%D9%86%D9%85`;
 export const EMAIL = "info@drhomaazadi.ir";
-export const ADDRESS = "اصفهان — سه مطب حضوری";
+export const ADDRESS = "اصفهان — سه مرکز مشاوره حضوری";
 export const LICENSE_NUMBER = "۱۷۱۱۸۴۸";
 export const NEZAM_NUMBER = "۱۴۱۲۸";
 
